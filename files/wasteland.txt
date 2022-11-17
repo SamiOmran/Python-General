@@ -1,0 +1,5 @@
+I am writing to the file some text.
+saxsasseeee nice really?I am writing some lines I guess! hahahhaahaha
+ and now?I am writing some lines I guess! hahahhaahaha
+ and now?
+ f = open('files/wasteland.txt', mode='rt',encoding='utf-8')
