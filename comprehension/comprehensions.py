@@ -82,3 +82,14 @@ special projects."""
 words = text.split()
 print(Counter(words).most_common(10))
 
+
+"""Nested comprehension"""
+vals = []
+
+for x in range(10):
+    v = []
+    for y in range(x):
+        v.append(y*3)
+    vals.append(v)
+
+print(vals)
